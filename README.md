@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Myxic
-- 👀 I’m interested in ...python, html/CSS
-- 🌱 I’m currently learning ...django, javascript, 
+- 👀 I’m interested in ...python, html/CSS,django, javascript, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ezemenahi56@gmail.com
 
